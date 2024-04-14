@@ -62,10 +62,10 @@ This repository contains scripts to visualize employee data using various charts
 - Type: Donut Chart
 
 ### Sources
-- [IBM Data](/BMI/IBM%20data.csv)
-- [PowerIB Report](/BMI/IBM%20Employee%20Report.pbix)
-- [Report PDF](/BMI/IBM%20Employee%20Report.pdf)
+- [IBM Data](/IBM/IBM%20data.csv)
+- [PowerIB Report](/IBM/IBM%20Employee%20Report.pbix)
+- [Report PDF](/IBM/IBM%20Employee%20Report.pdf)
 
-![IBM_PowerBI_report](/BMI/IBM_PowerBI_report.png)
+![IBM_PowerBI_report](/IBM/IBM_PowerBI_report.png)
 
 
